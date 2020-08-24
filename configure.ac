@@ -3,7 +3,7 @@ dnl Created by Anjuta application wizard.
 
 AC_INIT(rpgd, 2.5.4, http://robert.hurst-ri.us/games/rpgd/, , http://robert.hurst-ri.us/games/rpgd)
 
-AM_INIT_AUTOMAKE(AC_PACKAGE_NAME, AC_PACKAGE_VERSION)
+AM_INIT_AUTOMAKE
 AC_CONFIG_HEADERS([config.h])
 AC_CONFIG_MACRO_DIR([m4])
 AM_MAINTAINER_MODE

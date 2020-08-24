@@ -1,5 +1,5 @@
 1.  ./autogen.sh
-    ./configure --host=i686-linux-gnu "CFLAGS=-m32" "CXXFLAGS=-m32" "LDFLAGS=-m32"
+    ./configure
     make
     make install
 
