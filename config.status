@@ -549,7 +549,7 @@ AMDEP_TRUE="" ac_aux_dir="."
 sed_quote_subst='s/\(["`$\\]\)/\\\1/g'
 double_quote_subst='s/\(["`\\]\)/\\\1/g'
 delay_variable_subst='s/\\\\\\\\\\\$/\\\\\\$/g'
-macro_version='2.4.2'
+macro_version='2.4.6'
 macro_revision='1.3337'
 enable_shared='yes'
 enable_static='yes'
